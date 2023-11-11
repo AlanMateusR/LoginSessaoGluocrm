@@ -40,4 +40,25 @@ Gluocrm é uma plataforma focada em soluções Customer Relationship Management,
 > 
 > É preciso obter tres dados de credenciais para utilização do script; Link, Nome do usuario, Chave de acesso da API
 
+- Utilize um arquivo .env para inserir as proprias credenciais
+
 <img src="https://imgur.com/tz0iznu.png" />
+
+- Salvo as credenciais já é possivel executar o script 
+
+<img src="https://imgur.com/SEkdKmZ.png" />
+
+- Executando o .py será exibido rapidamente a sessão iniciada com a API no terminal
+
+<img src="https://imgur.com/TW3EkB9.png" />
+  
+- Tabém será criado um .txt nomeado session.txt contendo a chave gerada
+> Se desejar remover -> linha 103 a 106
+
+<img src="https://imgur.com/vJOcCFS.png" />
+
+# Conclusão
+
+- Script visa obter de forma rapida o parametro "sessionName" cujo qual é obrigatorio obter em toda e qualquer requisição enviados ao portal gluocrm via API.
+
+<img src="https://imgur.com/pGnqjnh.png" />
