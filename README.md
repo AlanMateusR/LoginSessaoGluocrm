@@ -39,7 +39,12 @@ Gluocrm é uma plataforma focada em soluções Customer Relationship Management,
 > A conta que será utilizada para efetuar API Rest no portal GLUO obrigatoriamente deve obter permissão para acesso aos recursos disponibilizados no site.
 > 
 > É preciso obter tres dados de credenciais para utilização do script; Link, Nome do usuario, Chave de acesso da API
+> 
 
+- Biblioteca resquisitada: dotenv 
+- Utilize pip install python-dotenv 
+
+<br><br/>
 - Utilize um arquivo .env para inserir as proprias credenciais
 
 <img src="https://imgur.com/tz0iznu.png" />
