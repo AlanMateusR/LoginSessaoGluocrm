@@ -7,4 +7,7 @@ Gluocrm é uma plataforma focada em soluções Customer Relationship Management,
 > 
 > Pagina da documentação de desenvolvimento da ferramenta https://developers.gluocrm.com.br/
 >
-https://imgur.com/Oio8Sc0
+
+
+<img src="https://imgur.com/Oio8Sc0">
+
