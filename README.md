@@ -7,7 +7,7 @@ Gluocrm é uma plataforma focada em soluções Customer Relationship Management,
 > 
 > Pagina da documentação de desenvolvimento da ferramenta https://developers.gluocrm.com.br/
 >
-> Confira tambem no repositorio um collection postman para testes de envio das requisições
+
 # Abaixo um fluxograma que demonstra o processo de autenticação na API (em duas etapas):
 <img src="https://imgur.com/Oio8Sc0.png" />
 
