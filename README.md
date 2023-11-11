@@ -3,7 +3,7 @@ Gluocrm é uma plataforma focada em soluções Customer Relationship Management,
 
 - Esse script auxiliará os desenvolvedores a iniciarem a sessão via API na plataforma de forma mais rapida e simplificada, sem ter que se atentar com as etapas de inicialização de sessão descritos nos documentos de integração.
 
-> Pagina comercial da ferraemnta https://www.gluocrm.com.br/
+> Pagina comercial da ferramenta https://www.gluocrm.com.br/
 > 
 > Pagina da documentação de desenvolvimento da ferramenta https://developers.gluocrm.com.br/
 >
