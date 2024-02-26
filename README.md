@@ -67,3 +67,7 @@ Gluocrm é uma plataforma focada em soluções Customer Relationship Management,
 - Script visa obter de forma rapida o parametro "sessionName" cujo qual é obrigatorio obter em toda e qualquer requisição enviados ao portal gluocrm via API.
 
 <img src="https://imgur.com/pGnqjnh.png" />
+
+> ~Alan Mateus Rodrigues
+> 
+> ~linkedin: https://www.linkedin.com/in/alan-rodrigues-983822218/
